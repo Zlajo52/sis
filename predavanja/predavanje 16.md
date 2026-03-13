@@ -83,4 +83,3 @@
     - v128, v256
     - v128 ima 64 bitni blok i 128 bitni ključ
     - v256 ima 128 bitni blok i 256 bitni ključ
-
